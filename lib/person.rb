@@ -1,5 +1,4 @@
 class Person
 end
-snoopy.new = Dog
-fido.new = Dog
-lassie.new = Dog
+adele_goldberg.new = Person 
+alan_kay.new = Person 
